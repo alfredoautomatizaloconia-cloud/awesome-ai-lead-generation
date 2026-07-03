@@ -67,6 +67,7 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 
 - [11x.ai](https://www.11x.ai/) - AI SDR "Alice" that autonomously prospects, writes personalized emails, and books meetings. `SaaS` `Paid`
 - [Artisan AI](https://www.artisan.co/) - AI sales agent "Ava" that handles end-to-end outbound: research, personalization, sending, follow-ups. `SaaS` `Paid`
+- [Hermes](https://www.buildwithhermes.com/) - AI voice agent platform for phone-based lead qualification. Agents make and answer calls, qualify leads, and book meetings, white-labeled per client workspace. `SaaS` `Paid`
 - [Regie.ai](https://www.regie.ai/) - AI-powered sales engagement. Auto-generates personalized sequences using prospect research. `SaaS` `Paid`
 - [Lavender](https://www.lavender.ai/) - AI email coaching. Scores emails in real-time, suggests improvements, learns your voice. `SaaS` `Freemium`
 - [Instantly.ai](https://instantly.ai/) - Cold email at scale. Unlimited email accounts, warmup, AI personalization. `SaaS` `Paid`
